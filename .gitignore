@@ -1,0 +1,8 @@
+build/
+build-mingw/
+*.dll
+*.obj
+*.o
+*.lib
+*.exp
+*.pdb
